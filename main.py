@@ -41,8 +41,6 @@ while not is_game_over:
 
 
 
-#print(f'The number i thought is: {chosen_number}')
-
 
 # Include an ASCII art logo.
 # Allow the player to submit a guess for a number between 1 and 100.
